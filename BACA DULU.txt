@@ -1,0 +1,6 @@
+Struktur menu ada di func/menu.php
+Function database ada di func/db.php
+
+Yang lain cari surang wkwk
+
+Field2 database belum semuanya lengkap
